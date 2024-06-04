@@ -52,16 +52,14 @@ export const projectsData = [
     image: Work6,
     title: "Terminus",
     category: "web",
-    description:
-      "A company website implemented by ReactJS , Redux, Ant Design , Go , Laravel , MySQL",
+    description: "A company website to monitor car and driver for tracking",
   },
   {
     id: 7,
     image: Work7,
     title: "Cloudtime Passenger",
     category: "web",
-    description:
-      "A company website implemented by ReactJS , Redux, Ant Design , Go , Laravel , MySQL",
+    description: "A company website to monitor and check attendance",
   },
 
   {
@@ -69,8 +67,7 @@ export const projectsData = [
     image: Work8,
     title: "Certification ",
     category: "app",
-    description:
-      "A company web app send notification to Line implemented by HTML , CSS, Bootstrap jQuery , Go , Firebase , MySQL",
+    description: "A company web app",
   },
 ];
 
