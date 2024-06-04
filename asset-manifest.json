@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-oak/static/css/main.56f5b74e.css",
-    "main.js": "/portfolio-oak/static/js/main.1d936e08.js",
+    "main.js": "/portfolio-oak/static/js/main.9df78bb7.js",
     "static/media/netflix-clone.jpg": "/portfolio-oak/static/media/netflix-clone.b3dba3e4504ff27aba16.jpg",
     "static/media/about.jpg": "/portfolio-oak/static/media/about.49b0e31dbb96843edf31.jpg",
     "static/media/profile.jpg": "/portfolio-oak/static/media/profile.d0f84a727267d78126a6.jpg",
@@ -18,10 +18,10 @@
     "static/media/testimonial1.png": "/portfolio-oak/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/portfolio-oak/index.html",
     "main.56f5b74e.css.map": "/portfolio-oak/static/css/main.56f5b74e.css.map",
-    "main.1d936e08.js.map": "/portfolio-oak/static/js/main.1d936e08.js.map"
+    "main.9df78bb7.js.map": "/portfolio-oak/static/js/main.9df78bb7.js.map"
   },
   "entrypoints": [
     "static/css/main.56f5b74e.css",
-    "static/js/main.1d936e08.js"
+    "static/js/main.9df78bb7.js"
   ]
 }
