@@ -31,6 +31,12 @@
   border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 1.25rem;
   border-radius: 1rem;
+  width: 295px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.work__card.zoom:hover {
+  transform: scale(1.05);
 }
 
 .work__img {
@@ -67,6 +73,10 @@
 .active-work {
   background-color: var(--title-color);
   color: var(--container-color);
+}
+
+.work__description {
+  color: black;
 }
 
 /*==================== MEDIA QUERIES ====================*/
