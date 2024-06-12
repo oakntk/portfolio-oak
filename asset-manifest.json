@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-oak/static/css/main.56f5b74e.css",
-    "main.js": "/portfolio-oak/static/js/main.9df78bb7.js",
+    "main.css": "/portfolio-oak/static/css/main.40383f6b.css",
+    "main.js": "/portfolio-oak/static/js/main.9c535c8c.js",
     "static/media/netflix-clone.jpg": "/portfolio-oak/static/media/netflix-clone.b3dba3e4504ff27aba16.jpg",
     "static/media/about.jpg": "/portfolio-oak/static/media/about.49b0e31dbb96843edf31.jpg",
     "static/media/profile.jpg": "/portfolio-oak/static/media/profile.d0f84a727267d78126a6.jpg",
@@ -13,15 +13,12 @@
     "static/media/fitness-booking.jpg": "/portfolio-oak/static/media/fitness-booking.e8de30af6db8df6dbf16.jpg",
     "static/media/cloudtime.PNG": "/portfolio-oak/static/media/cloudtime.9b39a494784f1a0a6ea6.PNG",
     "static/media/certterminus.png": "/portfolio-oak/static/media/certterminus.2c814acb60c3ce5fef1a.png",
-    "static/media/testimonial3.png": "/portfolio-oak/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
-    "static/media/testimonial2.png": "/portfolio-oak/static/media/testimonial2.39a53f7f092f07f5bceb.png",
-    "static/media/testimonial1.png": "/portfolio-oak/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/portfolio-oak/index.html",
-    "main.56f5b74e.css.map": "/portfolio-oak/static/css/main.56f5b74e.css.map",
-    "main.9df78bb7.js.map": "/portfolio-oak/static/js/main.9df78bb7.js.map"
+    "main.40383f6b.css.map": "/portfolio-oak/static/css/main.40383f6b.css.map",
+    "main.9c535c8c.js.map": "/portfolio-oak/static/js/main.9c535c8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.56f5b74e.css",
-    "static/js/main.9df78bb7.js"
+    "static/css/main.40383f6b.css",
+    "static/js/main.9c535c8c.js"
   ]
 }
